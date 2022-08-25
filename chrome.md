@@ -1,0 +1,1 @@
+- https://duckduckgo.com/?q=how+to+build+a+chrome+extension+freecodecamp&t=canonical&ia=web

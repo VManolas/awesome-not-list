@@ -1,0 +1,1 @@
+- https://www.analyticsinsight.net/top-10-rust-courses-programming-beginners-should-take-up-in-2022/

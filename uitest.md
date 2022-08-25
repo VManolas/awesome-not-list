@@ -1,0 +1,1 @@
+- https://www.browserstack.com/guide/testcafe-vs-cypress
